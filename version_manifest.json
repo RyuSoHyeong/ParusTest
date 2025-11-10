@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "build_date": "2025-11-10T01:55:07Z",
+  "build_date": "2025-11-10T15:34:31Z",
   "files": {
     "parus_office.exe": {
       "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office.exe",
@@ -100,6 +100,13 @@
       "required": true,
       "last_modified": "2025-03-12T09:41:49Z"
     },
+    "parus_office\\Binaries\\Win64\\parus_office-Win64-Shipping.exe": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/parus_office-Win64-Shipping.exe",
+      "size": 157107712,
+      "hash": "3168cf0c83f19b54416f5e42a309a79c40d21eae38d2d8cbf9a6c956d95fe42c",
+      "required": true,
+      "last_modified": "2025-05-22T14:30:04Z"
+    },
     "parus_office\\Binaries\\Win64\\tbb.dll": {
       "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/tbb.dll",
       "size": 234768,
@@ -134,6 +141,13 @@
       "hash": "96fc7f6d2aa07088f331954c9a3493244d0a0c40004b9c750c6271ec5c4ef480",
       "required": true,
       "last_modified": "2025-05-22T18:04:41Z"
+    },
+    "parus_office\\Content\\Paks\\parus_office-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/parus_office-Windows.ucas",
+      "size": 985859584,
+      "hash": "e9f8f6d96689560fee554d898153ddfad5f77bc8b610214627fb5432f0761770",
+      "required": false,
+      "last_modified": "2025-05-22T18:05:26Z"
     },
     "parus_office\\Content\\Paks\\parus_office-Windows.utoc": {
       "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/parus_office-Windows.utoc",
@@ -184,20 +198,6 @@
       "required": true,
       "last_modified": "2025-03-12T09:49:24Z"
     },
-    "parus_office\\Samples\\PixelStreaming\\WebServers\\get_ps_servers.bat": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Samples/PixelStreaming/WebServers/get_ps_servers.bat",
-      "size": 6504,
-      "hash": "72ab3580fea0072671a269e1e281bf1879e102fcb6b1cfa14a73572826ba7d5b",
-      "required": false,
-      "last_modified": "2025-01-20T10:57:49Z"
-    },
-    "parus_office\\Samples\\PixelStreaming\\WebServers\\get_ps_servers.sh": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Samples/PixelStreaming/WebServers/get_ps_servers.sh",
-      "size": 6291,
-      "hash": "cd93e2e39e6a2d8259e8b13208f1ca05c03f10de2ecd4e3a05e45633e50ef937",
-      "required": false,
-      "last_modified": "2025-01-20T10:57:49Z"
-    },
     "Engine\\Binaries\\ThirdParty\\MsQuic\\v220\\win64\\msquic.dll": {
       "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
       "size": 2557648,
@@ -246,6 +246,20 @@
       "hash": "610be4c93193b5719014f56541e7c7c26b7eee6cde8d299222325b84bb0092fd",
       "required": true,
       "last_modified": "2025-03-12T09:41:51Z"
+    },
+    "Engine\\Plugins\\Marketplace\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlss.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/nvngx_dlss.dll",
+      "size": 48971808,
+      "hash": "83de996b1589957d6bfb3df77e2f2ba7821f1014c73cfc5f8315241a0e4d3253",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:21Z"
+    },
+    "Engine\\Plugins\\Marketplace\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlssd.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/nvngx_dlssd.dll",
+      "size": 65631288,
+      "hash": "17ff0f28d1859fbb6079a6247bf0e08367be7f71d8143b6333a932da7391cc97",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:21Z"
     },
     "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\nvngx_deepdvc.dll": {
       "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_deepdvc.dll",
@@ -311,7 +325,7 @@
       "last_modified": "2025-03-12T09:48:48Z"
     }
   },
-  "total_size": 1391106627,
+  "total_size": 1391093832,
   "download_size": 0,
   "changelog": "Auto-generated manifest",
   "executable": "parus_office.exe"
