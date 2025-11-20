@@ -94,7 +94,7 @@
       "last_modified": "2025-03-12T09:41:49Z"
     },
     "parus_office\\Binaries\\Win64\\parus_office-Win64-Shipping.exe": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/parus_office-Win64-Shipping.exe",
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/LargeFiles/parus_office-Win64-Shipping.exe",
       "size": 157107712,
       "hash": "3168cf0c83f19b54416f5e42a309a79c40d21eae38d2d8cbf9a6c956d95fe42c",
       "required": true,
@@ -136,7 +136,7 @@
       "last_modified": "2025-11-20T03:06:26Z"
     },
     "parus_office\\Content\\Paks\\pakchunk0-Windows.ucas": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/pakchunk0-Windows.ucas",
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/LargeFiles/pakchunk0-Windows.ucas",
       "size": 193009376,
       "hash": "c027d73d63f526b2eaabe5afd6833379a9daba5f86c518a666bcbd1bea155fe7",
       "required": false,
@@ -199,7 +199,7 @@
       "last_modified": "2025-11-20T03:06:26Z"
     },
     "parus_office\\Content\\Paks\\pakchunk2-Windows.ucas": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/pakchunk2-Windows.ucas",
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/LargeFiles/pakchunk2-Windows.ucas",
       "size": 188108288,
       "hash": "e7ce639644234af5720454f39cd97b3d037947b4dbc886baf3a8c9a7deb114eb",
       "required": false,
@@ -262,7 +262,7 @@
       "last_modified": "2025-11-20T03:06:26Z"
     },
     "parus_office\\Content\\Paks\\pakchunk5-Windows.ucas": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/pakchunk5-Windows.ucas",
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/LargeFiles/pakchunk5-Windows.ucas",
       "size": 67883520,
       "hash": "be82b634c2570e5f6378571f5b1eeadc055b794a5ebaf9b946cfd7d9c51df041",
       "required": false,
@@ -360,14 +360,14 @@
       "last_modified": "2025-03-12T09:41:51Z"
     },
     "Engine\\Plugins\\Marketplace\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlss.dll": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/nvngx_dlss.dll",
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/LargeFiles/nvngx_dlss.dll",
       "size": 48971808,
       "hash": "83de996b1589957d6bfb3df77e2f2ba7821f1014c73cfc5f8315241a0e4d3253",
       "required": true,
       "last_modified": "2025-05-22T13:13:21Z"
     },
     "Engine\\Plugins\\Marketplace\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlssd.dll": {
-      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/nvngx_dlssd.dll",
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/LargeFiles/nvngx_dlssd.dll",
       "size": 65631288,
       "hash": "17ff0f28d1859fbb6079a6247bf0e08367be7f71d8143b6333a932da7391cc97",
       "required": true,
