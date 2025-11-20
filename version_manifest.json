@@ -1,0 +1,444 @@
+{
+  "version": "1.0.0",
+  "build_date": "2025-11-20T03:35:02Z",
+  "files": {
+    "parus_office.exe": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office.exe",
+      "size": 168448,
+      "hash": "701398e7fda88ce06cf10f4c0d75084190a8a020107193e98d4e6e43be8328dd",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:24Z"
+    },
+    "Engine\\Content\\Renderer\\TessellationTable.bin": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Content/Renderer/TessellationTable.bin",
+      "size": 259568,
+      "hash": "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941",
+      "required": false,
+      "last_modified": "2025-01-20T10:20:03Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_atomic-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_atomic-mt-x64.dll",
+      "size": 38680,
+      "hash": "cf73a8e2e8c23f2c4f32c24dd1fe989b34e0ea98d86be894f176afc9793d64a1",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_chrono-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_chrono-mt-x64.dll",
+      "size": 56600,
+      "hash": "c01e005151cc07bd401914716549b8aece73dac2d39d82b56421447b2fdfefff",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_filesystem-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_filesystem-mt-x64.dll",
+      "size": 161560,
+      "hash": "0b5a6f3855776356d7888596026a2a87f9c488e454ee3900126259586ede1180",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_iostreams-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_iostreams-mt-x64.dll",
+      "size": 69912,
+      "hash": "639e5f18dac1586b8c943ba8e5b6b277bc98d6414fd6c1267382645d87722f3b",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_program_options-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_program_options-mt-x64.dll",
+      "size": 372504,
+      "hash": "0749cd456b538eaaf1ec88d0d4523c35247090feadbe13bf082de9f2fdc1883e",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_python311-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_python311-mt-x64.dll",
+      "size": 213784,
+      "hash": "eeb7c7a31c65f2cb7d11a807eaf74bc55282c479edc9719fd844d9f4a44f1934",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_regex-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_regex-mt-x64.dll",
+      "size": 255768,
+      "hash": "8c9c759c20e3859b74a0e3fa06fb2ebf38ed9ca85425410f041552722794a078",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_system-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_system-mt-x64.dll",
+      "size": 30992,
+      "hash": "2672ae7a2e95c165c07d8ef6cc4540ba23711addb1d0b33ef9efba834be11f66",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\boost_thread-mt-x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/boost_thread-mt-x64.dll",
+      "size": 95512,
+      "hash": "7652e87121fa20a1e1c118e9a2d3480f94db4fdb0694000b04ac5d14fb0d05c6",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "parus_office\\Binaries\\Win64\\NvmlWrapper.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/NvmlWrapper.dll",
+      "size": 103704,
+      "hash": "060163d3f4b671e59bf9853cb8930b3a80cfa4ca965d76b2d37c8d11208728e3",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:31Z"
+    },
+    "parus_office\\Binaries\\Win64\\OpenColorIO_2_3.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/OpenColorIO_2_3.dll",
+      "size": 4295960,
+      "hash": "bb461941510155eca4f90e2c4d65a1356e75eac0985f0c5cdea26e4c606111f0",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:49Z"
+    },
+    "parus_office\\Binaries\\Win64\\parus_office-Win64-Shipping.exe": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/parus_office-Win64-Shipping.exe",
+      "size": 157107712,
+      "hash": "3168cf0c83f19b54416f5e42a309a79c40d21eae38d2d8cbf9a6c956d95fe42c",
+      "required": true,
+      "last_modified": "2025-05-22T14:30:04Z"
+    },
+    "parus_office\\Binaries\\Win64\\tbb.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/tbb.dll",
+      "size": 234768,
+      "hash": "35863379302909cc4c6cc73c388a1d23bc7f5fa668e439dac2264327a4fc41d6",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:49Z"
+    },
+    "parus_office\\Binaries\\Win64\\tbbmalloc.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/tbbmalloc.dll",
+      "size": 76560,
+      "hash": "65fc3984517eed2b0758b4d6c6319e2da9dcf7dac1192b793ad04713ceca8fa5",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:49Z"
+    },
+    "parus_office\\Content\\Paks\\global.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/global.ucas",
+      "size": 2495776,
+      "hash": "2a35346ff3a65e4ca96c07e929648ef386291d904ed7b0b22c2ff345974902a0",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:38Z"
+    },
+    "parus_office\\Content\\Paks\\global.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/global.utoc",
+      "size": 662,
+      "hash": "af8f4cd1fdef88b0238c7ec1f63a1d8381f9f53397e3e6ed0018d9aaa713ea1b",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk0-Windows.pak": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk0-Windows.pak",
+      "size": 10277765,
+      "hash": "d84e132476d0ac8a0a9dfe7c8da0c6b99bd659e1d32b0f2f14ac264a1b68be2d",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:26Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk0-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/pakchunk0-Windows.ucas",
+      "size": 193009376,
+      "hash": "c027d73d63f526b2eaabe5afd6833379a9daba5f86c518a666bcbd1bea155fe7",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:41Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk0-Windows.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk0-Windows.utoc",
+      "size": 189934,
+      "hash": "310c137da5d31ee50a2a50f7642a88ea762e66f97f16525e0fbdf17daaaabcaf",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk0optional-Windows.pak": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk0optional-Windows.pak",
+      "size": 339,
+      "hash": "216e98dd8a8efcf50249e642b67071897fb13ae3dba2ee9fafda4029973e3ace",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:26Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk0optional-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk0optional-Windows.ucas",
+      "size": 1021360,
+      "hash": "b06c8dd8bae35bb91d76e525b9a472024f2998b50be5a693ee9e4e47342027bb",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk0optional-Windows.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk0optional-Windows.utoc",
+      "size": 3473,
+      "hash": "e682a81a6aa61fe7d2380ed81732a1371503a42cfda30ed04368283017bd4684",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk1-Windows.pak": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk1-Windows.pak",
+      "size": 339,
+      "hash": "346afe3b15f7cc3fbee622b849b4845b910360e78c67cc1bd2f927880d41a83c",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:26Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk1-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk1-Windows.ucas",
+      "size": 1037536,
+      "hash": "3bcd7ec85f70b26f8cdc2f7800ba785a76a3fff49dc4bf2818eee9ebfe84d777",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk1-Windows.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk1-Windows.utoc",
+      "size": 4817,
+      "hash": "8d86dd8e138ddd886f04ab251c545de66292322a2df5b1fa75f13fb73497ce10",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk2-Windows.pak": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk2-Windows.pak",
+      "size": 339,
+      "hash": "30d4a0a5b898f46b9210db07ae85076a110eff00d7b489b63eb09ed0139a1d8c",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:26Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk2-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/pakchunk2-Windows.ucas",
+      "size": 188108288,
+      "hash": "e7ce639644234af5720454f39cd97b3d037947b4dbc886baf3a8c9a7deb114eb",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:54Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk2-Windows.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk2-Windows.utoc",
+      "size": 142670,
+      "hash": "9e6380178c710b81102fe6dcb5faadd951b038092de434485cbfb9e30b8fd10e",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk3-Windows.pak": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk3-Windows.pak",
+      "size": 78292,
+      "hash": "3d034aaa6c230cde593c77f48b3832e77456a5381254c6b91b2a4218fb74761b",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:26Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk3-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk3-Windows.ucas",
+      "size": 1677984,
+      "hash": "59daa34ad1c0e9498b72680b4c63d19611baff6754d5f2afddac932c2f4ffcbf",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:55Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk3-Windows.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk3-Windows.utoc",
+      "size": 19906,
+      "hash": "d66cae9505d1ec108c2c0760109161ab5dcfc33988521df1af559d30c120da4b",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk4-Windows.pak": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk4-Windows.pak",
+      "size": 339,
+      "hash": "80586447d22de01b6e411d56cb9dbc1cb474f566547585146bf4deb72626dbc6",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:26Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk4-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk4-Windows.ucas",
+      "size": 416,
+      "hash": "47f09569d07cc6dd69a078b6913b38712942a764bfd9101b61376214fa14b37e",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk4-Windows.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk4-Windows.utoc",
+      "size": 387,
+      "hash": "aa1b7e9c0a3b787f12d4b435ebdcfa2912f125f8507c6dd67bd9c277102275a2",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk5-Windows.pak": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk5-Windows.pak",
+      "size": 339,
+      "hash": "e23c1af8739e799a6af6c460ec80e28434dbd327e8b3eaf1a150b27d17d8acec",
+      "required": true,
+      "last_modified": "2025-11-20T03:06:26Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk5-Windows.ucas": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/pakchunk5-Windows.ucas",
+      "size": 67883520,
+      "hash": "be82b634c2570e5f6378571f5b1eeadc055b794a5ebaf9b946cfd7d9c51df041",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "parus_office\\Content\\Paks\\pakchunk5-Windows.utoc": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Content/Paks/pakchunk5-Windows.utoc",
+      "size": 102052,
+      "hash": "6f9426493e5706050e8776f8e689df41c5ce69bdda77fe60670270816ea2f096",
+      "required": false,
+      "last_modified": "2025-11-20T03:06:56Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
+      "size": 2243256,
+      "hash": "504994f2347a270d536544176a1499b672e32f3036c0925db0eba667f9c2e2c7",
+      "required": true,
+      "last_modified": "2025-03-12T09:40:37Z"
+    },
+    "Engine\\Content\\Slate\\Cursor\\invisible.cur": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Content/Slate/Cursor/invisible.cur",
+      "size": 326,
+      "hash": "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1",
+      "required": false,
+      "last_modified": "2025-01-20T10:20:03Z"
+    },
+    "parus_office\\Binaries\\Win64\\D3D12\\D3D12Core.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/D3D12/D3D12Core.dll",
+      "size": 3355456,
+      "hash": "b32ff10fe40c8d6384fa8cb4337db7ba95917c0547596986148dfe5fd306ca28",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:51Z"
+    },
+    "parus_office\\Binaries\\Win64\\D3D12\\d3d12SDKLayers.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/D3D12/d3d12SDKLayers.dll",
+      "size": 5794624,
+      "hash": "2650209345c56777783a5cff7ebfd5450d73c643f45d4ddadfb5e46a5293feac",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:51Z"
+    },
+    "parus_office\\Binaries\\Win64\\DML\\DirectML.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/parus_office/Binaries/Win64/DML/DirectML.dll",
+      "size": 14042432,
+      "hash": "e51e77794bf1dff3007a804de26fec2813413ea4ce14bf894cf52fa1b8863d0e",
+      "required": true,
+      "last_modified": "2025-03-12T09:49:24Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\MsQuic\\v220\\win64\\msquic.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+      "size": 2557648,
+      "hash": "22e104a400b95cfa9f669e7ec80f4e7bb4647eb535b4a3974a41b40c39cf7c7f",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:49Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\NVIDIA\\GPUDirect\\Win64\\dvp.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/NVIDIA/GPUDirect/Win64/dvp.dll",
+      "size": 236304,
+      "hash": "66ab46fc2a15a028375dced3787a8b9b7e5556e88a829b430668719f44b8c19c",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:49Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+      "size": 5453160,
+      "hash": "248a568317bd54a0e420218ffa3cbd742911d78b71de48264f2c69886a0d6869",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:49Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+      "size": 70424,
+      "hash": "9f0c4c20e2b20b56ff9454efa6fa61d5aeb32b57d0be87c7cf4a34194f58120f",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:49Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+      "size": 59160,
+      "hash": "e2c1a90723a1d9ddf843b033309a388a7a5ae051cd235174f31230f40e1f8681",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:51Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+      "size": 1735448,
+      "hash": "36719ad589955e0167389274397a6472cd64459e68fb0d56314db1cb136f8014",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:51Z"
+    },
+    "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+      "size": 868720,
+      "hash": "610be4c93193b5719014f56541e7c7c26b7eee6cde8d299222325b84bb0092fd",
+      "required": true,
+      "last_modified": "2025-03-12T09:41:51Z"
+    },
+    "Engine\\Plugins\\Marketplace\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlss.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/nvngx_dlss.dll",
+      "size": 48971808,
+      "hash": "83de996b1589957d6bfb3df77e2f2ba7821f1014c73cfc5f8315241a0e4d3253",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:21Z"
+    },
+    "Engine\\Plugins\\Marketplace\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlssd.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/releases/download/resource/nvngx_dlssd.dll",
+      "size": 65631288,
+      "hash": "17ff0f28d1859fbb6079a6247bf0e08367be7f71d8143b6333a932da7391cc97",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:21Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\nvngx_deepdvc.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_deepdvc.dll",
+      "size": 3278376,
+      "hash": "df2684b9b86d1935121149b623c78058ca9e8424abca3ee65e5fdb4622bbffdb",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\nvngx_dlssg.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_dlssg.dll",
+      "size": 7596088,
+      "hash": "c989c0ebd9cd21dbf3db0becd857aa1f218068d94da371d924331a6f0fb97525",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.common.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/sl.common.dll",
+      "size": 650200,
+      "hash": "9ac599be7c78d333ff4fcb00a55f2fa9c1cd93914e4a2c83a2f21b66d20b5d49",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.deepdvc.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/sl.deepdvc.dll",
+      "size": 184280,
+      "hash": "0039325489a3de86fea431ada2c45dfe86c8d483b86d0f767560aa5de868e26a",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.dlss_g.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/sl.dlss_g.dll",
+      "size": 458200,
+      "hash": "a301d33b9519a66f14af5a4b53bd9a1123fc678d3e1e6afe575bbe467ea2f8c5",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.interposer.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/sl.interposer.dll",
+      "size": 540632,
+      "hash": "bdc23057e41006acca787020f97ce114d77f3d7f28dc7696350772a9d29316af",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.pcl.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/sl.pcl.dll",
+      "size": 175072,
+      "hash": "7aa42b3e4f3199e08075f24d79795665c94d5d1a0eaec55ad4da38310a69672c",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\Marketplace\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.reflex.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/Marketplace/StreamlineCore/Binaries/ThirdParty/Win64/sl.reflex.dll",
+      "size": 198104,
+      "hash": "b6a28c518c65d96fae2cab2e39b1bd8a421285b80b1a82b70517c2fc910b1254",
+      "required": true,
+      "last_modified": "2025-05-22T13:13:38Z"
+    },
+    "Engine\\Plugins\\NNE\\NNERuntimeORT\\Binaries\\ThirdParty\\Onnxruntime\\Win64\\onnxruntime.dll": {
+      "url": "https://github.com/RyuSoHyeong/ParusTest/raw/main/Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll",
+      "size": 13573448,
+      "hash": "7e90e089d2df40b1a83b11434d6df8f9d963f1d1d684f1c22645660ba3a55772",
+      "required": true,
+      "last_modified": "2025-03-12T09:48:48Z"
+    }
+  },
+  "total_size": 807272395,
+  "download_size": 0,
+  "changelog": "• Уменьшение размера проекта\n• Оптимизация файлов\n• Оптимизация текстур",
+  "executable": "parus_office.exe"
+}
